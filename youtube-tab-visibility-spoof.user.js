@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         YouTube Tab Visibility Spoof
-// @namespace    https://github.com/userscripts
-// @version      1.1
+// @namespace    https://github.com/troysjanda
+// @version      1.2
 // @description  Prevents YouTube from detecting when the tab is out of focus or hidden
+// @updateURL    https://github.com/troysjanda/youtubepagevisabilitydefuser/raw/refs/heads/main/youtube-tab-visibility-spoof.user.js
+// @downloadURL  https://github.com/troysjanda/youtubepagevisabilitydefuser/raw/refs/heads/main/youtube-tab-visibility-spoof.user.js
 // @author       Troy Janda
 // @match        *://www.youtube.com/*
 // @match        *://youtube.com/*
