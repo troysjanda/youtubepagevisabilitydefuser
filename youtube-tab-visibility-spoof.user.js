@@ -3,7 +3,7 @@
 // @namespace    https://github.com/userscripts
 // @version      1.1
 // @description  Prevents YouTube from detecting when the tab is out of focus or hidden
-// @author       userscript
+// @author       Troy Janda
 // @match        *://www.youtube.com/*
 // @match        *://youtube.com/*
 // @grant        none
